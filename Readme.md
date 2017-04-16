@@ -3,9 +3,9 @@
 Secret Diary is an online diary application built with PHP. Users can register to create an account and login to store their thoughts in the diary.
 
 * Features/Technologies: 
-  * PHP Syntax, PHPMyAdmin
+  * PHP Syntax, PHPMyAdmin, MySQL
   * HTML/CSS
-  * MySQL
+  * Bootstrap
   * Custom Font
   
 
