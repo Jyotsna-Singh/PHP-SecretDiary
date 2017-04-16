@@ -1,26 +1,30 @@
-# PHP Quizzer
+# Secret Diary
 
-Quizzer is a simple PHP/MySQL based quiz engine. it uses multiple choices and admins can create new quizes from within the browser
+Secret Diary is an online diary application built with PHP. Users can register to create an account and login to store their thoughts in the diary.
 
 * Features/Technologies: 
   * PHP Syntax, PHPMyAdmin
   * HTML/CSS
-  * Includes, Math Functions
-  * MySQL Select, MySQL Insert, Loops, Superglobals (GET, POST), Associative Arrays, 
+  * MySQL
+  * Custom Font
+  
 
 ## Version
 1.0
 
 ## Live Demo
- [Quizzer](http://jyotsna-singh-com.stackstaging.com/projects/php/Quizzer/)
+ [SecretDiary](http://jyotsna-singh-com.stackstaging.com/projects/php/SecretDiary/)
 
 ## Snapshots
   
- **Home - View All Shouts** | 
+ **Home** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-ShoutBox/blob/master/img/shout.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/home.PNG)   |
+ 
+ **Diary** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/diary.PNG)   |
   
-
 
 ## License
 MIT License
