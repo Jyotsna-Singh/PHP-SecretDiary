@@ -1,4 +1,4 @@
-# Secret Diary
+# ![alt tag](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/logo.PNG)
 
 Secret Diary is an online diary application built with PHP. Users can register to create an account and login to store their thoughts in the diary.
 
@@ -12,8 +12,8 @@ Secret Diary is an online diary application built with PHP. Users can register t
 ## Version
 1.0
 
-## Live Demo
- [SecretDiary](http://jyotsna-singh-com.stackstaging.com/projects/php/SecretDiary/)
+## Live Demo - SecretDiary
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/red-button.PNG)](http://jyotsnasingh.com/projects/php/SecretDiary/)
 
 ## Snapshots
   
